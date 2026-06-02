@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ArabicEduNLP corpus record",
+  "type": "object",
+  "required": [
+    "record_id",
+    "task_category",
+    "source_text",
+    "mt_output",
+    "student_submission"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string"
+    },
+    "student_id": {
+      "type": "string"
+    },
+    "exercise_id": {
+      "type": [
+        "integer",
+        "string"
+      ]
+    },
+    "task_type": {
+      "type": "string"
+    },
+    "task_category": {
+      "type": "string",
+      "enum": [
+        "translation",
+        "post_editing",
+        "unknown"
+      ]
+    },
+    "source_text": {
+      "type": "string"
+    },
+    "mt_output": {
+      "type": "string"
+    },
+    "student_submission": {
+      "type": "string"
+    },
+    "student_submission_view": {
+      "type": "string"
+    },
+    "time_spent_sec": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "preferred_edit_count": {
+      "type": [
+        "number",
+        "null"
+      ]
+    }
+  }
+}

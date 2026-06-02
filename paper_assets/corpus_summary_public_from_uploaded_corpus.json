@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-05-30T18:51:17",
+  "number_of_records": 140,
+  "number_of_students": 110,
+  "number_of_exercises": 4,
+  "submission_views": [
+    "final_submission",
+    "track_changes_report"
+  ],
+  "task_categories": {
+    "post_editing": 59,
+    "translation": 81
+  },
+  "total_source_words": 16229,
+  "total_mt_words": 19799,
+  "total_visible_submission_words": 24243,
+  "average_computed_visible_edit_ratio": 0.6457
+}

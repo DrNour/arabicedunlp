@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "ArabicEduNLP: Arabic Translation and Post-Editing Analytics"
+message: "If you use ArabicEduNLP in your research, please cite this software and the accompanying manuscript."
+type: software
+authors:
+  - family-names: Abdelaal
+    given-names: Noureldin
+version: 0.1.0
+date-released: 2026-06-02
+repository-code: "https://github.com/DrNour/arabicedunlp"
+license: MIT
+keywords:
+  - Arabic NLP
+  - post-editing
+  - machine translation
+  - translation analytics
+  - educational NLP

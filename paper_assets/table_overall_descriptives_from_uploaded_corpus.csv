@@ -1,0 +1,8 @@
+,count,mean,std,min,25%,50%,75%,max
+computed_source_word_count,140.0,115.9214,32.9025,53.0,92.0,92.0,149.0,172.0
+computed_mt_word_count,140.0,141.4214,34.87,46.0,128.0,128.0,146.0,212.0
+computed_submission_word_count,140.0,173.1643,76.9004,8.0,130.75,158.5,198.25,519.0
+computed_mt_visible_submission_edit_distance,140.0,89.7214,73.1857,1.0,41.0,61.0,121.5,403.0
+computed_mt_visible_submission_edit_ratio,140.0,0.6457,0.523,0.0078,0.2792,0.4648,0.8558,2.6513
+time_spent_sec,140.0,707.0248,921.1723,0.0,127.1125,401.955,1000.07,6325.85
+preferred_edit_count,140.0,78.0,79.217,0.0,18.0,58.5,118.75,403.0
