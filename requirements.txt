@@ -1,0 +1,3 @@
+# Install the src-layout package and the Streamlit interface.
+-e .
+streamlit>=1.36,<2
